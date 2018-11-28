@@ -1152,14 +1152,14 @@ END Contact Area
 
 /*footer area*/
 .footer-area{
-    height: 80px;
+    height: 50px;
     text-align: center;
-    background-color: #bc261a;
+    background-color: black;
     display: flex;
     align-items: center;
 }
 .footer-area p{
-    color: #ffffff;
+    color: white;
 }
 /*===========================
 3. Blog Details
